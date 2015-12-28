@@ -1,15 +1,11 @@
 # www.robotstxt.org/
 
-# Allow crawling of all content
+# Allow/Disallow crawling of all content
 
 User-agent: *
 
-# Directories
-
-Disallow: /styles/
-Disallow: /images/
-Disallow: /scripts/
-
 # Files
-
+Disallow: /favicon.ico
 Disallow: /humans.txt
+Disallow: /LICENSE
+Disallow: /README.md
