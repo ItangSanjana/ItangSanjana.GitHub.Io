@@ -1,2 +1,2 @@
-# itangsanjana.github.io
+# ItangSanjana.GitHub.Io
 A personal page.
