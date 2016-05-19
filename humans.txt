@@ -1,7 +1,7 @@
 
 /* TEAM */
     Itang Sanjana
-    Site: https://itangsanjana.github.io
+    Site: https://ItangSanjana.GitHub.Io
     Location: Bandung, INDONESIA.
 
 /* THANKS */
