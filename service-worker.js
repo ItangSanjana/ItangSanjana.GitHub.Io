@@ -1,5 +1,5 @@
 /**
- *  Copyright 2018 Itang Sanjana
+ *  Copyright 2013 Itang Sanjana
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -19,8 +19,7 @@ const filesToCache = [
   '/',
   'icons/icon-62.png',
   'scripts/main.js',
-  'styles/main.css',
-  'https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png'
+  'styles/main.css'
 ];
 
 self.addEventListener('install', event => {
