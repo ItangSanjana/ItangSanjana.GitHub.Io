@@ -43,6 +43,10 @@ img, embed, object, video {
     vertical-align: middle;
 }
 
+img[alt="Logo"] {
+    max-width: unset;
+}
+
 .margin-bottom-unset {
     margin-bottom: unset;
 }
