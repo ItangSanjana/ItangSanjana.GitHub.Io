@@ -51,6 +51,10 @@ img[alt="Logo"] {
     margin-bottom: unset;
 }
 
+.margin-top-unset {
+    margin-top: unset;
+}
+
 @media (max-width: 425px) {
     body {
         grid-template-rows: min-content min-content auto min-content;
