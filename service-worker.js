@@ -14,21 +14,12 @@
  *  limitations under the License.
  */
 
-const cacheName = 'ItangSanjana-v1';
+const cacheName = 'ItangSanjana-v13';
 const filesToCache = [
   '/',
   'icons/icon-48.png',
-  'icons/icon-192.png',
-  'icons/icon-512.png',
   'images/forkme_right_darkblue_121621.png',
-  'scripts/main.js',
-  'styles/main.css',
-  'favicon.ico',
-  'humans.txt',
-  'index.html',
-  'manifest.json',
-  'manifest.webapp',
-  'service-worker.js'
+  'styles/main.css'
 ];
 
 self.addEventListener('install', event => {
