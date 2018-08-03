@@ -3,9 +3,9 @@
   "short_name": "Itang",
   "description": "An apps development enthusiast.",
   "icons": [{
-        "src": "icons/icon-62.png",
+        "src": "icons/icon-48.png",
         "type": "image/png",
-        "sizes": "62x62"
+        "sizes": "48x48"
       }, {
         "src": "icons/icon-192.png",
         "type": "image/png",
