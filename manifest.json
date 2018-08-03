@@ -1,0 +1,22 @@
+{
+  "name": "Itang Sanjana",
+  "short_name": "Itang",
+  "description": "An apps development enthusiast.",
+  "icons": [{
+        "src": "icons/icon-62.png",
+        "type": "image/png",
+        "sizes": "62x62"
+      }, {
+        "src": "icons/icon-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }, {
+        "src": "icons/icon-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }],
+  "start_url": "/index.html?homescreen=1",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF"
+}
