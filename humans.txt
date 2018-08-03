@@ -1,8 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
 
-/* TEAM */
-    Itang Sanjana
-    Site: https://ItangSanjana.GitHub.Io
-    Location: Bandung, INDONESIA.
+# TEAM
 
-/* THANKS */
-    To: All
+  Itang Sanjana -- Developer -- https://itangsanjana.github.io/
+
+# THANKS
+
+  All
+
+# TECHNOLOGY COLOPHON
+
+  HTML, CSS, JS
