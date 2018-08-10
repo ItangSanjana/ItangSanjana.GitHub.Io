@@ -1,22 +1,21 @@
 {
-  "name": "Itang Sanjana",
-  "short_name": "Itang",
-  "description": "An apps development enthusiast.",
-  "icons": [{
-        "src": "icons/icon-48.png",
-        "type": "image/png",
-        "sizes": "48x48"
-      }, {
-        "src": "icons/icon-192.png",
-        "type": "image/png",
-        "sizes": "192x192"
-      }, {
-        "src": "icons/icon-512.png",
-        "type": "image/png",
-        "sizes": "512x512"
-      }],
-  "start_url": "/index.html?homescreen=1",
-  "display": "standalone",
   "background_color": "#FFFFFF",
-  "theme_color": "#FFFFFF"
+  "description": "An apps development enthusiast.",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "src": "icons/icon-192.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "512x512",
+      "src": "icons/icon-512.png",
+      "type": "image/png"
+    }
+  ],
+  "name": "Itang Sanjana",
+  "short_name": "Itang S",
+  "start_url": "index.html?homescreen=1",
+  "theme_color": "#000000"
 }

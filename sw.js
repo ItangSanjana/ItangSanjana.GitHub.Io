@@ -1,27 +1,32 @@
 /**
- *  Copyright 2013 Itang Sanjana
+ *   Copyright 2018 Itang Sanjana
  *
- *  Licensed under the Apache License, Version 2.0 (the "License");
- *  you may not use this file except in compliance with the License.
- *  You may obtain a copy of the License at
+ *   Licensed under the Apache License, Version 2.0 (the "License");
+ *   you may not use this file except in compliance with the License.
+ *   You may obtain a copy of the License at
  *
- *      http://www.apache.org/licenses/LICENSE-2.0
+ *       http://www.apache.org/licenses/LICENSE-2.0
  *
- *  Unless required by applicable law or agreed to in writing, software
- *  distributed under the License is distributed on an "AS IS" BASIS,
- *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- *  See the License for the specific language governing permissions and
- *  limitations under the License.
+ *   Unless required by applicable law or agreed to in writing, software
+ *   distributed under the License is distributed on an "AS IS" BASIS,
+ *   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *   See the License for the specific language governing permissions and
+ *   limitations under the License.
  */
+
+console.log('[ServiceWorker] Hello from sw.js');
 
 const cacheName = 'ItangSanjana-v1';
 const filesToCache = [
   '/',
-  '/index.html',
-  '/icons/icon-48.png',
-  '/images/forkme_right_darkblue_121621.png',
-  '/scripts/main.js',
-  '/styles/main.css'
+  'favicon.ico',
+  'icons/icon-192.png',
+  'icons/icon-512.png',
+  'images/forkme_right_darkblue_121621.png',
+  'images/logo.png',
+  'index.html',
+  'scripts/main.js',
+  'styles/main.css',
 ];
 
 self.addEventListener('install', event => {
