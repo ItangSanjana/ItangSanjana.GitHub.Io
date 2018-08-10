@@ -16,7 +16,7 @@
 
 console.log('[ServiceWorker] Hello from sw.js');
 
-const cacheName = 'ItangSanjana-v1';
+const cacheName = 'ItangSanjana-v13';
 const filesToCache = [
   '/',
   'favicon.ico',
